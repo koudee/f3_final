@@ -1,0 +1,19 @@
+*{
+    background-color: black;
+    color: white;
+}
+.controls {
+    text-align: center;
+    max-width: 40%;
+    margin: auto;
+}
+
+.table {
+    max-width: 70%;
+    margin: auto;
+}
+
+.currency-img {
+    width: 30px;
+    margin-right: 2%;
+}
